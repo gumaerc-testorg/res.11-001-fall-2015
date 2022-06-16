@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page links to a report by the MIT Comprehensive Initiative on Technology
+  Evaluation detailing water test kit evaluations
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: CITE Reports
